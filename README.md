@@ -20,4 +20,4 @@ Visualized Key Performance Indicators ( KPIs) in a format that provides a quick 
 
 Applied relevant Excel functions and formulas to optimise and structure the data for effective visualization.
 
-PDF LINK-
+PDF LINK-file:///C:/Users/User/Downloads/UNP_Project_MS_EXCEL_HR_DATA%20(2)%20(1).pdf
