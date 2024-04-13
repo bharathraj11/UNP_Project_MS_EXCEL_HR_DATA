@@ -21,4 +21,6 @@ Visualized Key Performance Indicators ( KPIs) in a format that provides a quick 
 Applied relevant Excel functions and formulas to optimise and structure the data for effective visualization.
 
 PDF LINK-https://drive.google.com/file/d/1z2fxWMpu9J3s2Mj0vITejmHATZWguLiR/view?usp=sharing
+
+
 excel link-https://docs.google.com/spreadsheets/d/1xwX5REXaW2mN3xCuxq506pqJmZcS7YOd/edit?usp=sharing&ouid=101632573245500661155&rtpof=true&sd=true
